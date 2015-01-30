@@ -60,6 +60,7 @@
             android:layout_height="wrap_content" />
 
         <EditText
+            android:text="@string/random"
             android:id="@+id/password_confirm_field"
             android:hint="@string/password_confirm_field"
             android:layout_toRightOf="@+id/password_label"
